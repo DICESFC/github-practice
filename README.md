@@ -1,2 +1,2 @@
-# github-practice
-GitHub練習用レポジトリ
+# GitHub練習用レポジトリ
+これで君もGitHubマスターだ！
